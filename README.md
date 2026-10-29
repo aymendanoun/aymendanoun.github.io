@@ -1,9 +1,7 @@
 # Aymen Danoun — Engineering Portfolio
 
-Static GitHub Pages website. Open index.html to preview. No dependencies or build required.
+Public portfolio covering aerospace structural engineering, computational mechanics and hybrid AI–physics modeling.
 
-Edit index.html for visible content and styles.css for appearance. portfolio.ts is the original unchanged content reference.
+Published with GitHub Pages at https://aymendanoun.github.io/.
 
-GitHub Pages: Settings → Pages → Deploy from a branch → main → / (root).
-
-The engineering graphic is a concept illustration, not simulation output.
+Edit index.html for homepage content, projects/ for case studies, and styles.css and reference-theme.css for appearance. No build step is required.
