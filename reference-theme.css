@@ -371,3 +371,9 @@ a.project-summary{min-height:290px;transition:border-color .2s,transform .2s;}
 .project-outcome{border-left:3px solid var(--teal);padding:0 0 0 14px;margin:0 0 24px;}
 .project-outcome>span{font:700 12px/1.5 var(--mono);letter-spacing:1px;color:var(--teal);}
 .project-summary .project-outcome p{color:var(--ink);font-weight:600;margin:6px 0 0;}
+
+/* Center the homepage introduction. */
+.hero-copy{text-align:center;}
+.hero-copy h1{margin-top:0;}
+.hero-copy .hero-text{margin-left:auto;margin-right:auto;}
+.hero-copy .hero-actions{justify-content:center;}

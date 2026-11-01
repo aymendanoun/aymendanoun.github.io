@@ -1,7 +1,7 @@
 # Aymen Danoun — Engineering Portfolio
 
-Public portfolio covering aerospace structural engineering, computational mechanics and hybrid AI–physics modeling.
+Static portfolio covering aerospace structures, computational mechanics and AI-accelerated simulation.
 
-Published with GitHub Pages at https://aymendanoun.github.io/.
+Website: https://aymendanoun.github.io/
 
-Edit index.html for homepage content, projects/ for case studies, and styles.css and reference-theme.css for appearance. No build step is required.
+No build step is required. Edit index.html for the homepage, projects/ for case studies, and the CSS files for presentation. The downloadable CV is stored in assets/.
